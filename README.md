@@ -36,7 +36,7 @@ Robert Peary Middle School students are with in the Los Angeles Unified School D
   - _Hispanic or Latino_ ** 64%**
   - _Native Hawaiian or Pacific Islander_ ** **0.8%**
   - _White_ **2.2%**
-  - _Two or more Races **1.4%**
+  - _Two or more Races_ **1.4%**
  3. **Grouped Students** 
  - _Sociallyeconimically Disadvantaged_ **87.6%**
   - _English Learners_ **11.8%**
