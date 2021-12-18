@@ -64,24 +64,46 @@ Students are given the chance to work in Code.org and MIT Scratch. In [Code.org]
 
 ### Software Specifications
 
-Describe the software that you will use. Include software used for students as
-well as any software the instructor will use. This should include any software
-installed as well as any online services.
+## Software Specifications
+Web Browser
+* Google Chrome
+* Safari
+  Website Name
+* Code.org
+* MIT Scratch
+* Youtube
+* TinkerCad
+* Ultimaker
+* canvasworkspace
+## Learning management system
+* Schoology
+## Operating system
+* Students use Chrome OS
+* Teacher uses MACOS Big sur
+Describe the software that you will use. Include software used for students as well as any software the instructor will use. This should include any software installed as well as any online services.
 
 ### Hardware Specifications
+### Hardware Specifications
+* Chromebook
+* OPERATING SYSTEM Chrome OS™ 64
+PROCESSOR Intel® Celeron® N4020 
+MEMORY 4 GB LPDDR4-3733 MHz RAM (onboard) Transfer rates up to 3733 MT/s.
+INTERNAL DRIVE 32 GB eMMC
+CLOUD SERVICE Google One™ (with 100 GB of storage and other exclusive benefits for 24 months) [4]
+DISPLAY 11.6" diagonal HD display
+Intel® UHD Graphics 600
 
-Describe the hardware requirements for your class. Provide specific requirements
-wherever necessary.
+* Macbook Air
 
 ### Application
-
-Describe how you will use the above technologies in the class, including
-in-class activities, homework, assignments, and assessment. Justify the use
-in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
+## Course name COMPUTER SCI DISCOVERY A/B
+## Grade Level 7th
+## Description
+Students are given the chance to work in Code.org and MIT Scratch. In Code.org, students created a website and learned to code with angry bird characters. Through this free resource students learned basics on how to create tags for HTML. Students were also given the chance to learn how to code angry birds to send them to different locations to then complete tasks. With both of these prgrams students were given the chance to practice pair programming.
+In MIT Scratch, students were given different task to complete. These tasks were projects were like Make a game, students are given a tutroial on how to make a game that will have them chase a charater to to score points. There are also projects brought to you by youtube. Such projects are like the catch game. Teaches students step by step on how to set up the code on catching falling objects. It teaches students how to use graphical planes to determine quadrants of x and y axis.
+Next time meeting with te students will be using program called TinkerCad. This program has students work with objects that will give them 3D movement of the object but online. Students use this online program to then download their project to upload the saved file to Ultimaker. Students should have downloaded this software to their computer. This application is called Cura. This is the program that talks to the 3D printer machine.
+Lastly, students will be using a canvasworkspace to work with vynil/adhesive cutter. They will use this to design products to bring awareness to local or worldwide issues. This cutter uses an online program to have students type and design logos and text to print out in either an adhesive medium or vinyl to then adhere to other cloth like material.
 
 ### Impacts
 
-How will the technology help *all* students learn? In this section, you can also
-describe how you address class resiliency, such as adapting to
-transitions to virtual education, social/legal/ethical challenges,  and/or
-evolving course contexts.
+This will help out students computer science implements critical thinking skills that students may not have or need help building on it. Students at my school do not have a lot of opportunities for trial an error. The first offense is taken and shut down. My students need multiple chances to make mistakes and speak their mind. Though it is difficult in a school system that castigates them for things that they were not taught otherwise. I know this new knowledge would be difficult and weird to them because it is not somethig they are use to doing. Even as an educator it will have be break out of my comfort level and actually let students lead their education. The only reason I don’t do this because I feel I won’t know how to lead them to where they want to go. I am not sure how to cultivate class resilency. I am not even sure how that would even look like.
